@@ -24,6 +24,11 @@ I am a junior Python developer with strong motivation and a desire to grow in th
 <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="celery" width="40" height="40"/>
 </a>&nbsp;
 
+<!-- NGINX -->
+<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/>
+</a>&nbsp;
+
 <!-- Kubernetis -->
 <img src="https://github.com/pavelchautchenka/pavelchautchenka/assets/136158983/ca862e45-3958-49c9-83e8-15c5adab1e60" alt="kubernetis" width="40" height="40"/>
 </a>&nbsp;
@@ -55,10 +60,7 @@ I am a junior Python developer with strong motivation and a desire to grow in th
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </a>&nbsp;
-<!-- NGINX -->
-<a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/>
-</a>&nbsp;
+
 
 
 
@@ -81,11 +83,7 @@ I am a junior Python developer with strong motivation and a desire to grow in th
 <a href="https://redis.io" target="_blank" rel="noreferrer">
 <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
 </a>&nbsp;
-<!-- Mongodb -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-</a>&nbsp;
-</p>
+
 
 <h3 align="left">Operation Systems:</h3>
 
@@ -98,5 +96,19 @@ I am a junior Python developer with strong motivation and a desire to grow in th
 </a>&nbsp;
 <!-- Ios -->
 
+
+<h1 align="center">Contacts 📫</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="litvin.para@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/pavelchautchenka">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 
