@@ -112,3 +112,15 @@ I am a junior Python developer with strong motivation and a desire to grow in th
 </p>
 
 
+<h1 align="center">Languages </h1>
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/French_language">
+    <img src="https://img.shields.io/badge/French-0055A4?style=for-the-badge&logo=france&logoColor=white" alt="French">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/English_language">
+    <img src="https://img.shields.io/badge/English-007FFF?style=for-the-badge&logo=united-kingdom&logoColor=white" alt="English">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Russian_language">
+    <img src="https://img.shields.io/badge/Russian-0033A0?style=for-the-badge&logo=russia&logoColor=white" alt="Russian">
+  </a>
+</p>
